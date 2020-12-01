@@ -1,0 +1,14 @@
+/***************               Whetting Your Apitite               ***************/
+/***************                    Chapter No.1                   ***************/
+
+
+
+Today is 14/10/2020 and 01:48 am
+Question 1
+why we write "return 0" ?
+Question 2
+why we write int data type of main ?
+Question 3
+why c program start with "main" function ?
+Question 4
+is there any method of writing c program with out of "main" function ?
